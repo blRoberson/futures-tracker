@@ -1,0 +1,44 @@
+### Build ###
+target/
+build/
+*.class
+*.jar
+*.war
+*.log
+
+### Maven ###
+.mvn/wrapper/maven-wrapper.jar
+
+### IDEs ###
+.vscode/
+.idea/
+*.iws
+*.iml
+*.ipr
+
+### Eclipse / STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### OS Files ###
+.DS_Store
+Thumbs.db
+
+### Node (if frontend added later) ###
+node_modules/
+
+### Keep nested targets if needed ###
+!**/src/main/**/target/
+!**/src/test/**/target/

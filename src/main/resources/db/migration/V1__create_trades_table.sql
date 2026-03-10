@@ -1,0 +1,3 @@
+CREATE TABLE trades (
+    id BIGSERIAL PRIMARY KEY
+);
