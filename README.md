@@ -113,9 +113,9 @@ Server runs on: "http://localhost:8080" (This will change)
 
 ### Example Workflow
 
-1 Upload trade CSV through API
-2 CSV data is parsed
-3 Trades are stored in PostgreSQL
+1 Upload trade CSV through API \
+2 CSV data is parsed \
+3 Trades are stored in PostgreSQL \
 4 Data can be retrieved via REST endpoints
 
 ### Future Improvements
